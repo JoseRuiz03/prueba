@@ -1,0 +1,9 @@
+C:\Users\JOSE\Desktop\TAREA\capanegocio\obj\Debug\capanegocio.csproj.CoreCompileInputs.cache
+C:\Users\JOSE\Desktop\TAREA\capanegocio\bin\Debug\capanegocio.dll
+C:\Users\JOSE\Desktop\TAREA\capanegocio\bin\Debug\capanegocio.pdb
+C:\Users\JOSE\Desktop\TAREA\capanegocio\bin\Debug\capadatos.dll
+C:\Users\JOSE\Desktop\TAREA\capanegocio\bin\Debug\capadatos.pdb
+C:\Users\JOSE\Desktop\TAREA\capanegocio\obj\Debug\capanegocio.csprojAssemblyReference.cache
+C:\Users\JOSE\Desktop\TAREA\capanegocio\obj\Debug\capanegocio.csproj.CopyComplete
+C:\Users\JOSE\Desktop\TAREA\capanegocio\obj\Debug\capanegocio.dll
+C:\Users\JOSE\Desktop\TAREA\capanegocio\obj\Debug\capanegocio.pdb

@@ -1,0 +1,13 @@
+C:\Users\JOSE\Desktop\TAREA\capapresentacion\obj\Debug\capapresentacion.csprojAssemblyReference.cache
+C:\Users\JOSE\Desktop\TAREA\capapresentacion\obj\Debug\capapresentacion.FrmListado.resources
+C:\Users\JOSE\Desktop\TAREA\capapresentacion\obj\Debug\capapresentacion.csproj.GenerateResource.cache
+C:\Users\JOSE\Desktop\TAREA\capapresentacion\obj\Debug\capapresentacion.csproj.CoreCompileInputs.cache
+C:\Users\JOSE\Desktop\TAREA\capapresentacion\bin\Debug\capapresentacion.dll
+C:\Users\JOSE\Desktop\TAREA\capapresentacion\bin\Debug\capapresentacion.pdb
+C:\Users\JOSE\Desktop\TAREA\capapresentacion\bin\Debug\capanegocio.dll
+C:\Users\JOSE\Desktop\TAREA\capapresentacion\bin\Debug\capadatos.dll
+C:\Users\JOSE\Desktop\TAREA\capapresentacion\bin\Debug\capanegocio.pdb
+C:\Users\JOSE\Desktop\TAREA\capapresentacion\bin\Debug\capadatos.pdb
+C:\Users\JOSE\Desktop\TAREA\capapresentacion\obj\Debug\capapresentacion.csproj.CopyComplete
+C:\Users\JOSE\Desktop\TAREA\capapresentacion\obj\Debug\capapresentacion.dll
+C:\Users\JOSE\Desktop\TAREA\capapresentacion\obj\Debug\capapresentacion.pdb

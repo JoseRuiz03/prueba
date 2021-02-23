@@ -1,0 +1,16 @@
+C:\Users\JOSE\Desktop\TAREA\CRUD\obj\Debug\CRUD.csprojAssemblyReference.cache
+C:\Users\JOSE\Desktop\TAREA\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\Users\JOSE\Desktop\TAREA\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+C:\Users\JOSE\Desktop\TAREA\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\JOSE\Desktop\TAREA\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\JOSE\Desktop\TAREA\CRUD\bin\Debug\CRUD.exe
+C:\Users\JOSE\Desktop\TAREA\CRUD\bin\Debug\CRUD.pdb
+C:\Users\JOSE\Desktop\TAREA\CRUD\bin\Debug\capapresentacion.dll
+C:\Users\JOSE\Desktop\TAREA\CRUD\bin\Debug\capapresentacion.pdb
+C:\Users\JOSE\Desktop\TAREA\CRUD\obj\Debug\CRUD.csproj.CopyComplete
+C:\Users\JOSE\Desktop\TAREA\CRUD\obj\Debug\CRUD.exe
+C:\Users\JOSE\Desktop\TAREA\CRUD\obj\Debug\CRUD.pdb
+C:\Users\JOSE\Desktop\TAREA\CRUD\bin\Debug\capanegocio.dll
+C:\Users\JOSE\Desktop\TAREA\CRUD\bin\Debug\capadatos.dll
+C:\Users\JOSE\Desktop\TAREA\CRUD\bin\Debug\capanegocio.pdb
+C:\Users\JOSE\Desktop\TAREA\CRUD\bin\Debug\capadatos.pdb
